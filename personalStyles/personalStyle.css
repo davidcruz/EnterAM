@@ -1,0 +1,101 @@
+#LogInContent{
+	position: absolute;
+	z-index: 1;
+}
+#ImagenLogIn h2{
+	position: absolute;
+}
+#Margin{
+	position: absolute;
+	height: 10%;
+	z-index: 1;
+}
+#LogIn{
+	text-align: center;
+	vertical-align: middle;
+	height: auto;
+}
+#ImagenLogIn{
+	text-align: center;
+	height: 100%;
+}
+#Image{
+	height: 100%;
+	width: 100%;
+	position: relative;
+	z-index: 2;
+}
+#Datos{
+	background: #EFF2FB;
+	opacity: 0.8;
+	height: 80%;
+}
+#img{
+	text-align: center;
+}
+#Information{
+	border: 0px solid #CCC;
+    background-color: white;
+    height: 500px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    position: relative;
+    vertical-align: middle;
+    overflow: auto;
+}
+#myholder {
+    border: 0px solid #CCC;
+    background-color: white;
+    height: 500px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    position: relative;
+    vertical-align: middle;
+    overflow: auto;
+}
+#Properties{
+	background: #b0c4de;
+	overflow: auto;
+	height: 520px;
+}
+body {
+    background-color: #b0c4de;
+}
+#sheet{
+    background-color: white;	
+}
+#Domain{
+	color: White;
+}
+#icons{
+	/*background-color:gray;*/
+	margin: 5px 5px 5px 5px;
+}
+
+#SheetContainer{
+	text-align: center;
+	vertical-align: middle;
+	background: gray;
+	width: 100%;
+	height: 80%;
+	padding: 15px 15px 15px 15px;
+	overflow: auto;
+}
+
+
+
+#rect{
+  width: 30px; 
+  height: 25px;
+}
+
+#circle{
+	width: 25px; 
+	height: 25px;	
+}
+
+#BackgLogo{
+	width: 130px;
+	height: px;	
+}
+
